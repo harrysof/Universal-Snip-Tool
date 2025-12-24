@@ -183,16 +183,6 @@ When enabled, displays both LaTeX code and a human-readable text version with Un
 └─────────────────────┘
 ```
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how you can help:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -203,26 +193,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) - Text recognition engine
 - [Pillow](https://python-pillow.org/) - Image processing library
 
-## 📧 Contact
-
-Your Name - [@yourtwitter](https://twitter.com/yourtwitter) - email@example.com
-
-Project Link: [https://github.com/yourusername/universal-snip-tool](https://github.com/yourusername/universal-snip-tool)
-
-## 🗺️ Roadmap
-
-- [ ] Add equation editor for manual corrections
-- [ ] Support for more languages
-- [ ] Batch processing mode
-- [ ] History panel with search
-- [ ] Export to various formats (PDF, Word, etc.)
-- [ ] Cloud sync for recognized content
-- [ ] Mobile app version
-
-## ⭐ Star History
-
-If you find this tool useful, please consider giving it a star!
-
 ---
 
-**Made with ❤️ by [Your Name]**
+**Made with ❤️ by Harrysof**
